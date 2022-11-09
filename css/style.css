@@ -1,0 +1,68 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+.main{
+    height: 700px;
+    width: 1400px;
+    background: rgb(80, 175, 139);
+    position: relative;
+}
+.a{
+    height: 600px;
+    width: 450px;
+   background: rgb(127, 184, 192);
+   position:absolute;
+   top: 100px;
+   left: 50%;
+   transform: translate(-50%); 
+   border-radius: 70px;
+}
+.b{
+    top: 100px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%); 
+}
+.c{
+    top: 150px;
+    position: absolute;
+    left: 48%;
+    transform: translate(-50%);
+}
+.d{
+    top: 200px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+.e{
+    top: 250px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+.f{
+    top: 300px;
+    position: absolute;
+    left: 47%;
+    transform: translate(-50%);
+}
+.g{
+    top: 350px;
+    position: absolute;
+    left: 37%;
+    transform: translate(-50%);
+}
+.h{
+    top: 400px;
+    position: absolute;
+    left: 47%;
+    transform: translate(-50%);
+}
+.i{
+    top: 450px;
+    position: absolute;
+    left: 47%;
+    transform: translate(-50%);
+}
